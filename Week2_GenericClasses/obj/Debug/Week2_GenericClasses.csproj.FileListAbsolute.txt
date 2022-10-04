@@ -1,0 +1,8 @@
+C:\Users\Decagon\source\repos\Week2_GenericClasses\Week2_GenericClasses\obj\Debug\Week2_GenericClasses.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\Week2_GenericClasses\Week2_GenericClasses\obj\Debug\Week2_GenericClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\source\repos\Week2_GenericClasses\Week2_GenericClasses\obj\Debug\Week2_GenericClasses.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\Week2_GenericClasses\Week2_GenericClasses\bin\Debug\Week2_GenericClasses.exe.config
+C:\Users\Decagon\source\repos\Week2_GenericClasses\Week2_GenericClasses\bin\Debug\Week2_GenericClasses.exe
+C:\Users\Decagon\source\repos\Week2_GenericClasses\Week2_GenericClasses\bin\Debug\Week2_GenericClasses.pdb
+C:\Users\Decagon\source\repos\Week2_GenericClasses\Week2_GenericClasses\obj\Debug\Week2_GenericClasses.exe
+C:\Users\Decagon\source\repos\Week2_GenericClasses\Week2_GenericClasses\obj\Debug\Week2_GenericClasses.pdb

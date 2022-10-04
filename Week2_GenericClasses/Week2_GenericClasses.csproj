@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classess\queue.cs" />
-    <Compile Include="Classess\singlyLinkedlist.cs" />
-    <Compile Include="Classess\stack.cs" />
+    <Compile Include="Classess\Queue.cs" />
+    <Compile Include="Classess\SinglyLinkedlist.cs" />
+    <Compile Include="Classess\Stack.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
